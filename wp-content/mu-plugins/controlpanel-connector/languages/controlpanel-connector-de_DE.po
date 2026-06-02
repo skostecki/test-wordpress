@@ -1,0 +1,75 @@
+# Copyright (C) 2026 PanelAlpha
+# This file is distributed under the same license as the Control Panel Connection plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Control Panel Connection 1.6.0\n"
+"Report-Msgid-Bugs-To: https://panelalpha.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: PanelAlpha <support@panelalpha.com>\n"
+"Language-Team: German <support@panelalpha.com>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: controlpanel-connector\n"
+
+msgid "Control Panel Connection"
+msgstr "Systemsteuerung Verbindung"
+
+#. Description of the plugin
+msgid "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+msgstr "Dieses Hilfsplugin wird von unserem Systemsteuerung für verschiedene Aufgaben verwendet, z. B. zur Authentifizierung als Administrator beim Anmelden über die WP-Admin-Schaltfläche oder um Ihnen die Rückkehr zur Systemsteuerung zu ermöglichen."
+
+msgid "Settings saved."
+msgstr "Einstellungen gespeichert."
+
+msgid "An error occurred while saving settings."
+msgstr "Beim Speichern der Einstellungen ist ein Fehler aufgetreten."
+
+msgid "An unexpected error occurred. Please try again."
+msgstr "Ein unerwarteter Fehler ist aufgetreten. Bitte versuchen Sie es erneut."
+
+msgid "You do not have permission to manage plugin settings."
+msgstr "Sie haben keine Berechtigung, die Plugin-Einstellungen zu verwalten."
+
+msgid "Unauthorized"
+msgstr "Nicht autorisiert"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Show Control Panel Bar"
+msgstr "Systemsteuerungsleiste anzeigen"
+
+msgid "Display the Control Panel bar at the top of the page"
+msgstr "Die Systemsteuerungsleiste oben auf der Seite anzeigen"
+
+msgid "Show Link In Admin Menu"
+msgstr "Link im Admin-Menü anzeigen"
+
+msgid "Display a link to the Control Panel in the WordPress admin menu"
+msgstr "Einen Link zur Systemsteuerung im WordPress-Admin-Menü anzeigen"
+
+msgid "Show Link In Admin Bar"
+msgstr "Link in der Admin-Leiste anzeigen"
+
+msgid "Display a link to the Control Panel in the WordPress admin bar"
+msgstr "Einen Link zur Systemsteuerung in der WordPress-Admin-Leiste anzeigen"
+
+msgid "Back to Control Panel"
+msgstr "Zurück zur Systemsteuerung"
+
+msgid "Upgrade Now"
+msgstr "Jetzt upgraden"
+
+msgid "Hide this bar"
+msgstr "Diese Leiste ausblenden"
+
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+msgid "By"
+msgstr "Von"

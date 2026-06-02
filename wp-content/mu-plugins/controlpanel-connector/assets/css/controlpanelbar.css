@@ -1,0 +1,497 @@
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes slideUp {
+    from {
+        height: 32px;
+        opacity: 1;
+    }
+    to {
+        height: 0;
+        opacity: 0;
+    }
+}
+
+@font-face {
+    font-family: 'UbuntuLocal';
+    src: url('../fonts/Ubuntu-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'UbuntuLocal';
+    src: url('../fonts/Ubuntu-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+.controlpanelbar {
+    font-family: "UbuntuLocal", sans-serif;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    display: flex;
+    align-items: center;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 400;
+    background: #1d2327;
+    color: #f0f0f1;
+    padding: 0px 8px;
+    z-index: 100000;
+    border-bottom: 1px solid #343F46;
+}
+
+.controlpanelbar-hiding {
+    animation: slideUp 0.4s ease-in-out forwards;
+    overflow: hidden;
+}
+
+.controlpanelbar .controlpanelbar-content {
+    display: flex;
+    align-items: center;
+}
+
+.controlpanelbar .controlpanelbar-content .text {
+    padding: 8px 0;
+}
+
+.controlpanelbar.controlpanelbar-warning {
+    background: #723702;
+    color: #fff;
+    border-bottom: none;
+}
+
+.controlpanelbar.controlpanelbar-warning strong {
+    color: #ff8c4c;
+}
+
+.controlpanelbar.controlpanelbar-danger {
+    background: #5c1010;
+    color: #fff;
+    border-bottom: none;
+}
+
+.controlpanelbar.controlpanelbar-danger strong {
+    color: #ff5b5b;
+}
+
+.upgrade-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 24px;
+    color: #fff;
+    padding: 0 6px;
+    border-radius: 2px;
+    font-size: 11px;
+    font-weight: 400;
+    transition: all 0.3s;
+    margin-left: 12px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.upgrade-btn:hover {
+    opacity: 0.9;
+    color: #fff;
+}
+
+.upgrade-btn.upgrade-btn-warning {
+    background: #ff5c00;
+}
+
+.upgrade-btn.upgrade-btn-danger {
+    background: #e71d1d;
+}
+
+.back-to-btn {
+    display: flex;
+    align-items: center;
+    height: 32px;
+    font-size: 13px;
+    font-weight: 400;
+    text-decoration: none;
+    margin-right: 16px;
+    color: #f0f0f1;
+    transition: all 0.3s;
+    white-space: nowrap;
+}
+
+.back-to-btn .back-to-btn-icon {
+    margin-right: 8px;
+    width: 14px;
+}
+
+.back-to-btn .back-to-btn-icon path {
+    transition: all 0.3s;
+    fill: #9ca2a7;
+}
+
+.back-to-btn:hover {
+    color: #72aee6;
+}
+
+.back-to-btn:hover .back-to-btn-icon path {
+    fill: #72aee6;
+}
+
+.back-to-btn.back-to-btn-warning {
+    color: #fff;
+}
+
+.back-to-btn.back-to-btn-warning .back-to-btn-icon path {
+    fill: #fff;
+}
+
+.back-to-btn.back-to-btn-warning:hover {
+    color: #ff8c4d;
+}
+
+.back-to-btn.back-to-btn-warning:hover .back-to-btn-icon path {
+    fill: #ff8c4d;
+}
+
+.back-to-btn.back-to-btn-danger {
+    color: #fff;
+}
+
+.back-to-btn.back-to-btn-danger .back-to-btn-icon path {
+    fill: #fff;
+}
+
+.back-to-btn.back-to-btn-danger:hover {
+    color: #ff5b5b;
+}
+
+.back-to-btn.back-to-btn-danger:hover .back-to-btn-icon path {
+    fill: #ff5b5b;
+}
+
+#wpadminbar {
+    top: 0 !important;
+    transition: top 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar #wpadminbar {
+    top: 32px !important;
+}
+
+.controlpanelbar-dismiss-btn {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0 8px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #9ca2a7;
+    transition: all 0.3s ease;
+    margin-left: auto;
+    flex-shrink: 0;
+}
+
+.controlpanelbar-dismiss-btn:hover {
+    color: #72aee6;
+}
+
+.controlpanelbar-danger .controlpanelbar-dismiss-btn {
+    color: #fff;
+}
+
+.controlpanelbar-danger .controlpanelbar-dismiss-btn:hover {
+    color: #ff5b5b;
+}
+
+.controlpanelbar-warning .controlpanelbar-dismiss-btn {
+    color: #fff;
+}
+
+.controlpanelbar-warning .controlpanelbar-dismiss-btn:hover {
+    color: #ff8c4d;
+}
+
+#wpbody {
+    padding-top: 0px !important;
+    transition: padding-top 0.4s ease-in-out;
+}
+
+#wpcontent {
+    margin-top: 32px;
+    transition: margin-top 0.4s ease-in-out, padding-top 0.4s ease-in-out;
+}
+
+#adminmenuback,
+#adminmenuwrap,
+#adminmenu {
+    margin-top: 0;
+    transition: top 0.4s ease-in-out, margin-top 0.4s ease-in-out;
+}
+
+@supports (-moz-appearance: none) {
+    body.has-controlpanelbar #adminmenuback,
+    body.has-controlpanelbar #adminmenuwrap,
+    body.has-controlpanelbar #adminmenu,
+    body.has-controlpanelbar #wpcontent {
+        transition: none !important;
+    }
+}
+
+html {
+    padding-top: 0px !important;
+    transition: padding-top 0.4s ease-in-out;
+}
+
+body {
+    transition: margin-top 0.4s ease-in-out, padding-top 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar:not(.admin_page_extendify-launch) #wpcontent {
+    margin-top: 64px !important;
+    padding-top: 0px !important;
+}
+
+.wp-site-blocks {
+    transition: margin-top 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar .wp-site-blocks {
+    margin-top: 32px !important;
+}
+
+.edit-site {
+    transition: top 0.4s ease-in-out, height 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar.block-editor-page #wpcontent .edit-site {
+    min-height: unset !important;
+}
+
+body.has-controlpanelbar.block-editor-page #wpcontent .edit-site {
+    top: 32px !important;
+}
+
+#extendify-launch-page > .fixed {
+    transition: top 0.4s ease-in-out;
+}
+
+#extendify-launch-page > .fixed > .flex {
+    transition: height 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed {
+    top: 32px !important;
+}
+
+body.has-controlpanelbar.block-editor-page #wpcontent .edit-site {
+    height: calc(100vh - 32px) !important;
+}
+
+body.has-controlpanelbar.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex {
+    height: calc(100vh - 32px) !important;
+}
+
+.interface-interface-skeleton {
+    transition: top 0.4s ease-in-out;
+}
+
+body.has-controlpanelbar.block-editor-page #wpcontent .interface-interface-skeleton {
+    top: 32px !important;
+}
+
+@media screen and (min-width: 783px) {
+    body.has-controlpanelbar.block-editor-page:not(.is-fullscreen-mode) #wpcontent .interface-interface-skeleton {
+        top: 64px !important;
+    }
+}
+
+@keyframes slideUpMobile {
+    from {
+        height: 46px;
+        opacity: 1;
+    }
+    to {
+        height: 0;
+        opacity: 0;
+    }
+}
+
+@keyframes slideUpMobileWarning {
+    from {
+        height: 116px;
+        opacity: 1;
+    }
+    to {
+        height: 0;
+        opacity: 0;
+    }
+}
+
+@media screen and (max-width: 782px) {
+    #wpcontent {
+        margin-top: 46px;
+    }
+
+    body.has-controlpanelbar.block-editor-page #wpcontent .edit-site,
+    body.has-controlpanelbar.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed {
+        top: 46px !important;
+    }
+
+    body.has-controlpanelbar.block-editor-page #wpcontent .edit-site,
+    body.has-controlpanelbar.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex {
+        height: calc(100vh - 46px) !important;
+    }
+
+    body.has-controlpanelbar.block-editor-page #wpcontent .interface-interface-skeleton {
+        top: 92px !important;
+    }
+
+    .controlpanelbar {
+        height: 46px;
+    }
+
+    .controlpanelbar-hiding {
+        animation: slideUpMobile 0.4s ease-in-out forwards;
+        overflow: hidden;
+    }
+
+    body.has-controlpanelbar #wpadminbar {
+        top: 46px !important;
+    }
+
+    body.has-controlpanelbar #adminmenuback,
+    body.has-controlpanelbar #adminmenuwrap {
+        top: 92px;
+    }
+
+    body.has-controlpanelbar:not(.admin_page_extendify-launch) #wpcontent {
+        margin-top: 92px !important;
+        padding-top: 0px !important;
+    }
+}
+
+@media screen and (max-width: 620px) {
+    body.has-controlpanelbar-warning #wpadminbar,
+    body.has-controlpanelbar-danger #wpadminbar {
+        top: 116px !important;
+    }
+
+    body.has-controlpanelbar-warning.block-editor-page #wpcontent .edit-site,
+    body.has-controlpanelbar-danger.block-editor-page #wpcontent .edit-site {
+        top: 162px !important;
+    }
+
+    body.has-controlpanelbar-warning .wp-site-blocks,
+    body.has-controlpanelbar-danger .wp-site-blocks {
+        margin-top: 46px !important;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed {
+        top: 0 !important;
+    }
+
+    body.has-controlpanelbar-warning.block-editor-page #wpcontent .edit-site,
+    body.has-controlpanelbar-danger.block-editor-page #wpcontent .edit-site {
+        height: calc(100vh - 162px) !important;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex {
+        height: 100vh !important;
+        overflow-y: auto !important;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > *,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > * {
+        position: relative;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .w-full,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .w-full {
+        margin-top: 116px !important;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .grow.overflow-y-auto,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .grow.overflow-y-auto {
+        overflow-y: unset !important;
+    }
+
+    body.has-controlpanelbar-warning.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .z-10,
+    body.has-controlpanelbar-danger.admin_page_extendify-launch #wpcontent #extendify-launch-page > .fixed > .flex > .z-10 {
+        margin-top: unset !important;
+        padding-bottom: 90px !important;
+    }
+
+    body.has-controlpanelbar-warning.block-editor-page #wpcontent .interface-interface-skeleton,
+    body.has-controlpanelbar-danger.block-editor-page #wpcontent .interface-interface-skeleton {
+        top: 162px !important;
+    }
+
+    body.has-controlpanelbar-warning #adminmenuback,
+    body.has-controlpanelbar-warning #adminmenuwrap,
+    body.has-controlpanelbar-danger #adminmenuback,
+    body.has-controlpanelbar-danger #adminmenuwrap {
+        top: 162px;
+    }
+
+    .controlpanelbar.controlpanelbar-warning,
+    .controlpanelbar.controlpanelbar-danger {
+        height: 116px;
+        flex-direction: column;
+        align-items: flex-start;
+        padding: 0px 0px;
+    }
+
+    .controlpanelbar.controlpanelbar-warning.controlpanelbar-hiding,
+    .controlpanelbar.controlpanelbar-danger.controlpanelbar-hiding {
+        animation: slideUpMobileWarning 0.4s ease-in-out forwards;
+        overflow: hidden;
+    }
+
+    .controlpanelbar.controlpanelbar-warning .controlpanelbar-content,
+    .controlpanelbar.controlpanelbar-danger .controlpanelbar-content {
+        height: 100%;
+        padding: 12px 8px;
+    }
+
+    .controlpanelbar.controlpanelbar-warning .controlpanelbar-content {
+        border-top: 1px solid #7D3C02;
+    }
+
+    .controlpanelbar.controlpanelbar-danger .controlpanelbar-content {
+        border-top: 1px solid #641111;
+    }
+
+    .controlpanelbar.controlpanelbar-warning .controlpanelbar-content .text,
+    .controlpanelbar.controlpanelbar-danger .controlpanelbar-content .text {
+        padding-top: 0px;
+        padding-bottom: 0px;
+        line-height: 15px;
+    }
+
+    .back-to-btn {
+        height: 46px;
+        min-height: 46px;
+        padding: 0 8px;
+    }
+
+    body.has-controlpanelbar:not(.admin_page_extendify-launch) #wpcontent {
+        margin-top: 92px !important;
+        padding-top: 0px !important;
+    }
+
+    body.has-controlpanelbar-danger:not(.admin_page_extendify-launch) #wpcontent,
+    body.has-controlpanelbar-warning:not(.admin_page_extendify-launch) #wpcontent {
+        margin-top: 162px !important;
+    }
+}

@@ -1,0 +1,75 @@
+# Copyright (C) 2026 PanelAlpha
+# This file is distributed under the same license as the Control Panel Connection plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Control Panel Connection 1.6.0\n"
+"Report-Msgid-Bugs-To: https://panelalpha.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: PanelAlpha <support@panelalpha.com>\n"
+"Language-Team: Hebrew <support@panelalpha.com>\n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
+"X-Domain: controlpanel-connector\n"
+
+msgid "Control Panel Connection"
+msgstr "חיבור לוח הבקרה"
+
+#. Description of the plugin
+msgid "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+msgstr "תוסף שירות זה משמש את לוח הבקרה שלנו למשימות שונות, כגון אימות זהותך כמנהל בעת כניסה דרך כפתור WP Admin, או לסייע לך לחזור ללוח הבקרה."
+
+msgid "Settings saved."
+msgstr "ההגדרות נשמרו."
+
+msgid "An error occurred while saving settings."
+msgstr "אירעה שגיאה בעת שמירת ההגדרות."
+
+msgid "An unexpected error occurred. Please try again."
+msgstr "אירעה שגיאה בלתי צפויה. אנא נסה שוב."
+
+msgid "You do not have permission to manage plugin settings."
+msgstr "אין לך הרשאה לנהל את הגדרות התוסף."
+
+msgid "Unauthorized"
+msgstr "לא מורשה"
+
+msgid "Settings"
+msgstr "הגדרות"
+
+msgid "Show Control Panel Bar"
+msgstr "הצג את סרגל לוח הבקרה"
+
+msgid "Display the Control Panel bar at the top of the page"
+msgstr "הצג את סרגל לוח הבקרה בראש הדף"
+
+msgid "Show Link In Admin Menu"
+msgstr "הצג קישור בתפריט הניהול"
+
+msgid "Display a link to the Control Panel in the WordPress admin menu"
+msgstr "הצג קישור ללוח הבקרה בתפריט הניהול של WordPress"
+
+msgid "Show Link In Admin Bar"
+msgstr "הצג קישור בסרגל הניהול"
+
+msgid "Display a link to the Control Panel in the WordPress admin bar"
+msgstr "הצג קישור ללוח הבקרה בסרגל הניהול של WordPress"
+
+msgid "Back to Control Panel"
+msgstr "חזרה ללוח הבקרה"
+
+msgid "Upgrade Now"
+msgstr "שדרג עכשיו"
+
+msgid "Hide this bar"
+msgstr "הסתר סרגל זה"
+
+#, php-format
+msgid "Version %s"
+msgstr "גרסה %s"
+
+msgid "By"
+msgstr "מאת"
