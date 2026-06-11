@@ -1,0 +1,75 @@
+<?php
+/**
+ * Settings Page Template
+ *
+ * Renders the plugin settings page in WordPress admin.
+ *
+ * Variables available:
+ * @var bool $barVisible        Whether the control panel bar is visible
+ * @var bool $linkInAdminMenu   Whether the link in admin menu is visible
+ * @var bool $linkInAdminBar    Whether the link in admin bar is visible
+ * @var string $keyBarVisible       Field name for bar visibility
+ * @var string $keyLinkInAdminMenu  Field name for link in admin menu
+ * @var string $keyLinkInAdminBar   Field name for link in admin bar
+ */
+
+if ( ! defined( 'ABSPATH' ) ) {
+	exit;
+}
+?>
+<div class="wrap">
+	<h1><?php echo esc_html__( 'Control Panel Connection', 'controlpanel-connector' ); ?></h1>
+
+	<div id="controlpanel-settings-notice" style="display:none;" class="notice is-dismissible"></div>
+
+	<form id="controlpanel-settings-form">
+		<table class="form-table" role="presentation">
+			<tbody>
+				<tr>
+					<th scope="row"><?php echo esc_html__( 'Show Control Panel Bar', 'controlpanel-connector' ); ?></th>
+					<td>
+						<label>
+							<input
+								type="checkbox"
+								name="<?php echo esc_attr( $keyBarVisible ); ?>"
+								value="1"
+								<?php checked( $barVisible ); ?>
+							/>
+							<span><?php echo esc_html__( 'Display the Control Panel bar at the top of the page', 'controlpanel-connector' ); ?></span>
+						</label>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row"><?php echo esc_html__( 'Show Link In Admin Menu', 'controlpanel-connector' ); ?></th>
+					<td>
+						<label>
+							<input
+								type="checkbox"
+								name="<?php echo esc_attr( $keyLinkInAdminMenu ); ?>"
+								value="1"
+								<?php checked( $linkInAdminMenu ); ?>
+							/>
+							<span><?php echo esc_html__( 'Display a link to the Control Panel in the WordPress admin menu', 'controlpanel-connector' ); ?></span>
+						</label>
+					</td>
+				</tr>
+				<tr>
+					<th scope="row"><?php echo esc_html__( 'Show Link In Admin Bar', 'controlpanel-connector' ); ?></th>
+					<td>
+						<label>
+							<input
+								type="checkbox"
+								name="<?php echo esc_attr( $keyLinkInAdminBar ); ?>"
+								value="1"
+								<?php checked( $linkInAdminBar ); ?>
+							/>
+							<span><?php echo esc_html__( 'Display a link to the Control Panel in the WordPress admin bar', 'controlpanel-connector' ); ?></span>
+						</label>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+
+		<?php submit_button(); ?>
+	</form>
+</div>

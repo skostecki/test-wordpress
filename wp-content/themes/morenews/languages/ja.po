@@ -1,0 +1,2383 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Advanced Localization Tool 2026\n"
+
+msgid "MoreNews"
+msgstr "MoreNews"
+
+msgid "https://afthemes.com/products/morenews/"
+msgstr "https://afthemes.com/products/morenews/"
+
+msgid ""
+"MoreNews is a dynamic, ultra-fast, and highly versatile WordPress theme "
+"built not only for News, Magazines, and Blogs but also for Business, "
+"eCommerce, and any kind of Website thanks to its new HEADER & FOOTER BUILDER"
+" that works seamlessly with the Block Editor, GUTENBERG, ELEMENTOR, Brizy, "
+"Divi, and other popular Page Builders, giving you complete drag-and-drop "
+"freedom to design unique layouts without touching code. With 100+ ready-to-"
+"import Starter Sites, 30+ Custom Widgets, Advanced Block Patterns, Flexible "
+"Banner and Layout Options, AMP support, and full WOOCOMMERCE integration, "
+"MoreNews makes it easy to launch anything from a simple Blog to a "
+"professional Online Store or a complex Content Hub in minutes. It is fully "
+"optimized for SEO, CORE WEB VITALS, Speed, and Responsive Design, ensuring "
+"excellent performance on all devices, and is built with WCAG Accessibility, "
+"GDPR Compliance, and clean, Lightweight Code for long-term reliability. "
+"Multilingual and RTL Ready, with Demo Content available in multiple "
+"languages including English, Spanish, German, French, Japanese, Chinese, and"
+" Arabic, MoreNews is a future-proof theme designed for creators who value "
+"Style, Scalability, and a smooth User Experience across the globe. Explore "
+"all features at https://afthemes.com/products/morenews."
+msgstr ""
+"MoreNews は、ニュース、雑誌、ブログだけでなく、ビジネス、電子商取引、その他あらゆる種類の Web "
+"サイト向けに構築されたダイナミックで超高速、多用途の WordPress テーマです。新しい HEADER & FOOTER BUILDER "
+"は、ブロック エディター、GUTENBERG、ELEMENTOR、Brizy、Divi、その他の人気のあるページ "
+"ビルダーとシームレスに連携し、コードに触れることなく、ドラッグ アンド ドロップで完全に自由に独自のレイアウトをデザインできます。 100 "
+"を超えるすぐにインポートできるスターター サイト、30 を超えるカスタム ウィジェット、高度なブロック パターン、柔軟なバナーとレイアウト "
+"オプション、AMP サポート、完全な WOOCOMMERCE 統合を備えた MoreNews を使用すると、単純なブログからプロのオンライン "
+"ストアや複雑なコンテンツ ハブまで、あらゆるものを数分で簡単に起動できます。 SEO、コア ウェブ バイタル、速度、レスポンシブ "
+"デザインに関して完全に最適化されており、すべてのデバイスで優れたパフォーマンスを保証し、WCAG アクセシビリティ、GDPR "
+"準拠、長期的な信頼性を実現するクリーンで軽量なコードで構築されています。多言語および RTL "
+"対応で、英語、スペイン語、ドイツ語、フランス語、日本語、中国語、アラビア語を含む複数の言語でデモ コンテンツを利用できる MoreNews "
+"は、世界中のスタイル、スケーラビリティ、スムーズなユーザー エクスペリエンスを重視するクリエイター向けに設計された将来性のあるテーマです。 "
+"https://afthemes.com/products/morenews ですべての機能をご覧ください。"
+
+msgid "AF themes"
+msgstr "AF themes"
+
+msgid "https://www.afthemes.com/"
+msgstr "https://www.afthemes.com/"
+
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "お探しのページが見つかりません。"
+
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links"
+" below or a search?"
+msgstr "ここには何も見つかりませんでした。以下のリンクまたは検索をお試しください。"
+
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+msgid "Customize"
+msgstr "カスタマイズ"
+
+msgid "Header Builder"
+msgstr "ヘッダービルダー"
+
+msgid "Footer Builder"
+msgstr "フッタービルダー"
+
+msgid "Starter Sites"
+msgstr "スターターサイト"
+
+msgid "Elementor Kits"
+msgstr "エレメンターキット"
+
+msgid "Block Patterns"
+msgstr "ブロックパターン"
+
+msgid "Upgrade to Pro"
+msgstr "Pro にアップグレード"
+
+msgid "Upgrade Now"
+msgstr "今すぐアップグレード"
+
+msgid "The Templatespare plugin should be updated to the latest version"
+msgstr "Templatespare プラグインを最新バージョンに更新する必要があります"
+
+msgid "Import a Starter Site, Personalize, and Live it in 3 Easy Steps!"
+msgstr "3 つの簡単なステップでスターター サイトをインポートし、カスタマイズして運用します。"
+
+msgid "Blockspare plugin version should be more than %s."
+msgstr "Blockspare プラグインのバージョンは %s 以降である必要があります。"
+
+msgid ""
+"One-click Demo Import, Block Editor Ready, No Code Required! Built with "
+"Blockspare."
+msgstr "ワンクリックでデモをインポート、ブロックエディターで準備完了、コードは不要!ブロックスペアで構築されています。"
+
+msgid "Elespare plugin version should be more than %s."
+msgstr "Elespare プラグインのバージョンは %s 以上である必要があります。"
+
+msgid ""
+"One-click Import, Header/Footer Builder, Multilingual Support! Powered by "
+"Elespare."
+msgstr "ワンクリックインポート、ヘッダー/フッタービルダー、多言語サポート!エレスペアが提供します。"
+
+msgid "Are you sure you want to install this plugin?"
+msgstr "このプラグインをインストールしてもよろしいですか?"
+
+msgid "Install Now"
+msgstr "今すぐインストール"
+
+msgid "Activate"
+msgstr "有効化"
+
+msgid "Activated"
+msgstr "有効"
+
+msgid "Get Starter Sites"
+msgstr "スターター サイトを入手する"
+
+msgid "Get Started"
+msgstr "Get Started"
+
+msgid ""
+"The \"Get Started\" action will install/activate the Templatespare and "
+"Blockspare plugins for Starter Sites and Templates."
+msgstr ""
+"「開始」アクションは、スターター サイトとテンプレートの Templatespare プラグインと Blockspare "
+"プラグインをインストール/アクティブ化します。"
+
+msgid "By"
+msgstr "By"
+
+msgid "More Details"
+msgstr "詳細情報"
+
+msgid "👋 Welcome, and Thank You!"
+msgstr "👋 ようこそ、そしてありがとう!"
+
+msgid ""
+"%s is now active. We're here to help you turn your ideas into a beautiful, "
+"professional website — quickly and confidently."
+msgstr ""
+"%s は現在アクティブです。私たちは、あなたのアイデアを素早く、自信を持って、美しくプロフェッショナルな Web サイトに変えるお手伝いをします。"
+
+msgid "🚀 Start With One Click"
+msgstr "🚀 ワンクリックで開始"
+
+msgid ""
+"Choose from 100+ starter sites designed for blogs, magazines, businesses & more.\n"
+"      Setup is simple — no coding required."
+msgstr ""
+"ブログ、雑誌、ビジネスなどのために設計された 100 以上のスターター サイトからお選びください。 セットアップは簡単で、コーディングは必要ありません。"
+
+msgid "View Demos"
+msgstr "デモを見る"
+
+msgid "Theme dashboard"
+msgstr "テーマダッシュボード"
+
+msgid "🤝 We're Here for You"
+msgstr "🤝 私たちはあなたのためにここにいます"
+
+msgid "Whether you're just starting or customizing your site."
+msgstr "サイトを始めたばかりの場合でも、サイトをカスタマイズしている場合でも。"
+
+msgid "Documentation"
+msgstr "ドキュメント"
+
+msgid "Video Tutorials"
+msgstr "動画チュートリアル"
+
+msgid "Support"
+msgstr "サポート"
+
+msgid "⭐ Rate This Theme"
+msgstr "⭐ このテーマを評価する"
+
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr "このサイトにプラグインをインストールする権限がありません。"
+
+msgid "Error - unable to verify nonce, please try again."
+msgstr "エラー - nonce を検証できません。もう一度試してください。"
+
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr "このサイトにプラグインをインストールする権限がありません。"
+
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "「%1$s」への1件のフィードバック"
+
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s は &ldquo;%2$s&rdquo; について考えました"
+
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+msgid "%1$s by %2$s."
+msgstr "%1$s by %2$s。"
+
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+msgid "Social Menu"
+msgstr "ソーシャルメニュー"
+
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+msgid "Skip to content"
+msgstr "内容をスキップ"
+
+msgid "Open search form"
+msgstr "検索フォームを開く"
+
+msgid ""
+"Click the setting <span class=\"dashicons dashicons-admin-generic\"></span> "
+"on each element to customize its settings."
+msgstr ""
+"各要素の設定 <span class=\"dashicons dashicons-admin-generic\"></span> "
+"をクリックして、その設定をカスタマイズします。"
+
+msgid "Hide builder panel"
+msgstr "ビルダーパネルを非表示にする"
+
+msgid "Hide Builder"
+msgstr "ビルダーを表示しない"
+
+msgid "Device view controls"
+msgstr "デバイスビューコントロール"
+
+msgid "Choose an Element"
+msgstr "要素を選択してください"
+
+msgid "Close choose element modal"
+msgstr "要素モーダルを選択して閉じます"
+
+msgid "Footer Layout"
+msgstr "フッターレイアウト"
+
+msgid "Create dynamic header effortlessly with drag-and-drop builder."
+msgstr "ドラッグ アンド ドロップ ビルダーを使用して動的ヘッダーを簡単に作成します。"
+
+msgid "Header"
+msgstr "ヘッダー"
+
+msgid "Create dynamic footer effortlessly with drag-and-drop builder."
+msgstr "ドラッグ アンド ドロップ ビルダーを使用して動的なフッターを簡単に作成します。"
+
+msgid "Footer"
+msgstr "フッター"
+
+msgid "Enable %s Builder"
+msgstr "%s ビルダーを有効にする"
+
+msgid "Add Element"
+msgstr "エレメントを追加"
+
+msgid "Remove Element"
+msgstr "要素の削除"
+
+msgid "Configure Element"
+msgstr "要素の構成"
+
+msgid "Desktop"
+msgstr "デスクトップ"
+
+msgid "Element Settings"
+msgstr "要素の設定"
+
+msgid "close Off-Canvas Navigation"
+msgstr "オフキャンバスナビゲーションを閉じる"
+
+msgid "Site & Logo"
+msgstr "サイトとロゴ"
+
+msgid "Site Identity"
+msgstr "サイト基本情報"
+
+msgid "You can change Site Identity from %s."
+msgstr "サイト ID は %s から変更できます。"
+
+msgid "Promotion"
+msgstr "プロモーション"
+
+msgid "Off Canvas"
+msgstr "キャンバス外"
+
+msgid "Off Canvas Widget Area"
+msgstr "オフキャンバスウィジェットエリア"
+
+msgid "This widget area is used in the mobile off-canvas panel. %s"
+msgstr "このウィジェット領域は、モバイルのオフキャンバス パネルで使用されます。 %s"
+
+msgid "Manage widgets"
+msgstr "ウィジェットを管理する"
+
+msgid "Primary menu"
+msgstr "メインメニュー"
+
+msgid "Select Menu"
+msgstr "メニューを選択"
+
+msgid "You can change Menu from menu panel. %s"
+msgstr "メニューパネルからメニューを変更できます。 %s"
+
+msgid "Manage menu"
+msgstr "メニューの管理"
+
+msgid "Date"
+msgstr "日付"
+
+msgid "Choose date format"
+msgstr "日付形式を選択してください"
+
+msgid ""
+"You can change date from general settings (Settings > General > Date "
+"Format). %s"
+msgstr "日付は一般設定 (設定 > 一般 > 日付形式) から変更できます。 %s"
+
+msgid "Manage Date"
+msgstr "日付の管理"
+
+msgid "Top Navigation"
+msgstr "トップナビゲーション"
+
+msgid "pro"
+msgstr "有料版"
+
+msgid "Site Mode"
+msgstr "サイトモード"
+
+msgid "Custom HTML"
+msgstr "カスタム HTML"
+
+msgid "HTML Content"
+msgstr "HTML コンテンツ"
+
+msgid "Search"
+msgstr "検索"
+
+msgid "Searc Form"
+msgstr "検索フォーム"
+
+msgid "Custom Link"
+msgstr "カスタムリンク"
+
+msgid "Custom link"
+msgstr "カスタムリンク"
+
+msgid "live"
+msgstr "ライブ"
+
+msgid "Widget 1"
+msgstr "ウィジェット1"
+
+msgid "Select Widget"
+msgstr "ウィジェットの選択"
+
+msgid "Widget 2"
+msgstr "ウィジェット2"
+
+msgid "Widget 3"
+msgstr "ウィジェット3"
+
+msgid "Navigation"
+msgstr "ナビゲーション"
+
+msgid "Pro"
+msgstr "プロ"
+
+msgid "Copyright"
+msgstr "著作権表示"
+
+msgid "Add widget to display . %s"
+msgstr "表示するウィジェットを追加します。 %s"
+
+msgid "Beta"
+msgstr "ベータ"
+
+msgid "No menu assigned"
+msgstr "メニューが割り当てられていません"
+
+msgid "-- Select --"
+msgstr "-- 選択する --"
+
+msgid "Live"
+msgstr "ライブ"
+
+msgid "Popular Tags"
+msgstr "人気のタグ"
+
+msgid "Exclusive"
+msgstr "エクスクルーシブ"
+
+msgid "Posts List %d"
+msgstr "投稿リスト %d"
+
+msgid "Main News"
+msgstr "主なニュース"
+
+msgid "Latest"
+msgstr "最新"
+
+msgid "Popular"
+msgstr "人気"
+
+msgid "Trending"
+msgstr "最近人気"
+
+msgid "Trending Now"
+msgstr "今のトレンド"
+
+msgid "Update"
+msgstr "更新"
+
+msgid "Editor's Picks"
+msgstr "編集者のおすすめ"
+
+msgid "Trending Story"
+msgstr "トレンドストーリー"
+
+msgid "Featured Posts"
+msgstr "おすすめ投稿"
+
+msgid "Featured Categories"
+msgstr "注目のカテゴリー"
+
+msgid "Post list Section Title %d"
+msgstr "投稿リスト セクション タイトル %d"
+
+msgid "View More"
+msgstr "さらに表示"
+
+msgid "Read More"
+msgstr "続きを読む"
+
+msgid "Related Stories"
+msgstr "関連記事"
+
+msgid "You may have missed"
+msgstr "見逃したかもしれません"
+
+msgid "Copyright &copy; All rights reserved."
+msgstr "著作権&コピー;無断転載を禁じます。"
+
+msgid "Body Background Color"
+msgstr "ボディの背景色"
+
+msgid "Site Title Size"
+msgstr "サイトタイトルのサイズ"
+
+msgid "Uppercase Site Title and Tagline"
+msgstr "大文字のサイトタイトルとキャッチフレーズ"
+
+msgid "Site Title/Tagline Color"
+msgstr "サイトのタイトル/キャッチフレーズの色"
+
+msgid "Header Image Mode"
+msgstr "ヘッダー画像モード"
+
+msgid "Image visibility may vary as per the mode"
+msgstr "画像の可視性はモードによって異なる場合があります"
+
+msgid "Above Site Title"
+msgstr "サイトタイトルの上"
+
+msgid "Set as Background"
+msgstr "背景として設定"
+
+msgid "Show Full Image (Background)"
+msgstr "全体画像を表示 (背景)"
+
+msgid "Disable Image Tint/Overlay"
+msgstr "画像の色合い/オーバーレイを無効にする"
+
+msgid "MoreNews Pro"
+msgstr "もっとニュースプロ"
+
+msgid "Site Color Mode"
+msgstr "サイトカラーモード"
+
+msgid "Light"
+msgstr "ライト"
+
+msgid "Dark"
+msgstr "ダーク"
+
+msgid "Primary Color Section "
+msgstr "原色セクション"
+
+msgid "Body Background Color (Dark Mode) will be applied for this mode."
+msgstr "このモードでは、ボディの背景色 (ダーク モード) が適用されます。"
+
+msgid "Body Background Color (Dark Mode)"
+msgstr "本体背景色（ダークモード）"
+
+msgid "Secondary Color Section "
+msgstr "二次色セクション"
+
+msgid "Secondary Color"
+msgstr "サブカラー"
+
+msgid "Fonts & Typography"
+msgstr "フォントとタイポグラフィー"
+
+msgid "Font Family Section"
+msgstr "フォントファミリーセクション"
+
+msgid "Global Fonts Family"
+msgstr "グローバル フォント ファミリー"
+
+msgid "Google Fonts"
+msgstr "Google Fonts"
+
+msgid "System Fonts"
+msgstr "システムフォント"
+
+msgid "Site Title Font"
+msgstr "サイトタイトルのフォント"
+
+msgid "Primary Font"
+msgstr "メインフォント"
+
+msgid "Secondary Font"
+msgstr "サブフォント"
+
+msgid "Main Banner Options"
+msgstr "メインバナーオプション"
+
+msgid "Main Banner"
+msgstr "メインバナー"
+
+msgid "Enable Main Banner Section"
+msgstr "メインバナーセクションを有効化"
+
+msgid "Main Banner Background Image"
+msgstr "メインバナーの背景画像"
+
+msgid "Recommended Size %1$s px X %2$s px"
+msgstr "%1$s px X %2$s px のサイズがおすすめです"
+
+msgid "Select Main Banner Layout"
+msgstr "メインバナーレイアウトを選択"
+
+msgid "Slider, Trending and Tabs"
+msgstr "スライダー、トレンド、タブ"
+
+msgid "Slider, Editors Picks and Tabs"
+msgstr "スライダー、エディターのピックおよびタブ"
+
+msgid "Slider and Editors Picks"
+msgstr "スライダーとエディターのおすすめ"
+
+msgid "Slider and Tabs"
+msgstr "スライダーとタブ"
+
+msgid "Select Main Banner Order"
+msgstr "メインバナーの順序を選択してください"
+
+msgid "Order 1"
+msgstr "注文1"
+
+msgid "Order 2"
+msgstr "注文 2"
+
+msgid "Order 3"
+msgstr "注文 3"
+
+msgid "Main News Section "
+msgstr "メインニュースセクション"
+
+msgid "Section Title "
+msgstr "セクションのタイトル"
+
+msgid "Filter Posts By"
+msgstr "投稿のフィルター条件"
+
+msgid "Category"
+msgstr "カテゴリー"
+
+msgid "Tag"
+msgstr "タグ"
+
+msgid "Select Category"
+msgstr "カテゴリーを選択"
+
+msgid "Select category to be shown on main slider section"
+msgstr "メインスライダーセクションに表示するカテゴリーを選択してください"
+
+msgid "Select Tag"
+msgstr "タグの選択"
+
+msgid "Select tag to be shown on main slider section"
+msgstr "メインスライダーセクションに表示するタグを選択してください"
+
+msgid "Editor's Picks Section"
+msgstr "編集者のおすすめセクション"
+
+msgid "Select"
+msgstr "選択"
+
+msgid "Trending Section"
+msgstr "トレンドセクション"
+
+msgid "Comment Count"
+msgstr "コメント数"
+
+msgid "Latest Section"
+msgstr "最新セクション"
+
+msgid "Popular Section"
+msgstr "人気セクション"
+
+msgid "Update Section"
+msgstr "更新セクション"
+
+msgid "Enable Trending Tags"
+msgstr "トレンドタグを有効にする"
+
+msgid "Breaking News"
+msgstr "ニュース速報"
+
+msgid "Enable Flash News"
+msgstr "フラッシュニュースを有効にする"
+
+msgid "Flash Posts Category"
+msgstr "フラッシュ投稿カテゴリー"
+
+msgid "Select category to be shown on trending posts "
+msgstr "トレンド投稿に表示するカテゴリを選択してください"
+
+msgid "Front-page Options"
+msgstr "フロントページのオプション"
+
+msgid "Enable Featured Post Section"
+msgstr "注目の投稿セクションを有効にする"
+
+msgid "Select "
+msgstr "選択"
+
+msgid "Select category to be shown on featured section "
+msgstr "特集セクションに表示するカテゴリを選択してください"
+
+msgid "Posts List"
+msgstr "投稿一覧"
+
+msgid "Enable Post List Section"
+msgstr "投稿リストセクションを有効にする"
+
+msgid "Section %d"
+msgstr "セクション %d"
+
+msgid "Section Title"
+msgstr "セクションのタイトル"
+
+msgid "Front-page Layout Settings"
+msgstr "フロントページのレイアウト設定"
+
+msgid "Front-page Content Display"
+msgstr "フロントページのコンテンツ表示"
+
+msgid "Select frontpage content display"
+msgstr "フロントページのコンテンツ表示を選択する"
+
+msgid "Front-page Widgets"
+msgstr "フロントページのウィジェット"
+
+msgid "Page Contents & Front-page Widgets"
+msgstr "ページコンテンツとフロントページウィジェット"
+
+msgid "Front-page Content Alignment"
+msgstr "フロントページのコンテンツの配置"
+
+msgid "Select frontpage content alignment"
+msgstr "フロントページのコンテンツの配置を選択する"
+
+msgid "Home Content - Home Sidebar"
+msgstr "ホーム コンテンツ - ホーム サイドバー"
+
+msgid "Home Sidebar - Home Content"
+msgstr "ホーム サイドバー - ホーム コンテンツ"
+
+msgid "Only Home Content"
+msgstr "ホームコンテンツのみ"
+
+msgid "Header Options"
+msgstr "ヘッダーオプション"
+
+msgid "Header Settings"
+msgstr "ヘッダー設定"
+
+msgid "Site Mode Switch"
+msgstr "サイトモードスイッチ"
+
+msgid "Enable"
+msgstr "有効化"
+
+msgid "Disable"
+msgstr "無効化"
+
+msgid "Disable Sticky Header"
+msgstr "固定ヘッダーを使用しない"
+
+msgid "Sticky header works only with builder at bottom."
+msgstr "スティッキーヘッダーは下部のビルダーでのみ機能します。"
+
+msgid "Top Header Section"
+msgstr "上部ヘッダーセクション"
+
+msgid "Show Top Header"
+msgstr "トップヘッダーを表示"
+
+msgid "Show Date"
+msgstr "日付を表示する"
+
+msgid "Show Time"
+msgstr "時刻を表示"
+
+msgid "Time Format"
+msgstr "時刻形式"
+
+msgid "12 hours"
+msgstr "12時間"
+
+msgid "24 hours"
+msgstr "24時間"
+
+msgid "From WordPress Settings"
+msgstr "WordPressの設定から"
+
+msgid "Header Advertisement"
+msgstr "ヘッダー広告"
+
+msgid "Header Section Advertisement"
+msgstr "ヘッダーセクションの広告"
+
+msgid "URL Link"
+msgstr "URL リンク"
+
+msgid "Theme Options"
+msgstr "テーマ設定"
+
+msgid "Breadcrumb Options"
+msgstr "ブレッドクラムのオプション"
+
+msgid "Show breadcrumbs"
+msgstr "パンくずリストを表示する"
+
+msgid "Select Breadcrumbs"
+msgstr "ブレッドクラムの選択"
+
+msgid ""
+"Please ensure that you have enabled the plugin's breadcrumbs before choosing"
+" other than Default"
+msgstr "デフォルト以外を選択する前に、プラグインのブレッドクラムが有効になっていることを確認してください。"
+
+msgid "Default"
+msgstr "デフォルト"
+
+msgid "Yoast SEO"
+msgstr "Yoast SEO"
+
+msgid "Rank Math"
+msgstr "Rank Math"
+
+msgid "NavXT"
+msgstr "NavXT"
+
+msgid "Global Settings"
+msgstr "全体設定"
+
+msgid "Enable Preloader"
+msgstr "プリローダーを有効にする"
+
+msgid "Disable Emoji Script"
+msgstr "絵文字スクリプトを無効にする"
+
+msgid "GDPR friendly & better performance"
+msgstr "GDPR に配慮し、パフォーマンスを向上"
+
+msgid "Global Content Alignment"
+msgstr "全体コンテンツの配置"
+
+msgid "Content - Primary sidebar"
+msgstr "コンテンツ - メインサイドバー"
+
+msgid "Primary sidebar - Content"
+msgstr "主要サイドバー - コンテンツ"
+
+msgid "Full width content"
+msgstr "全角コンテンツ"
+
+msgid "Also Show Content Image in Archive"
+msgstr "アーカイブ内のコンテンツ画像も表示"
+
+msgid "If there is no Post Featured image set"
+msgstr "投稿アイキャッチ画像が設定されていない場合"
+
+msgid "Enable "
+msgstr "有効にする"
+
+msgid "Image Lazy Loading"
+msgstr "画像の遅延読み込み"
+
+msgid "Set for better performance"
+msgstr "パフォーマンスを向上させるための設定"
+
+msgid "Image Async Decoding"
+msgstr "画像の非同期デコード"
+
+msgid "Set to enhance rendering speed"
+msgstr "レンダリング速度を向上させるように設定します"
+
+msgid "Scroll to Top Position"
+msgstr "先頭位置までスクロール"
+
+msgid "Right"
+msgstr "右"
+
+msgid "Left"
+msgstr "左"
+
+msgid "Show"
+msgstr "表示"
+
+msgid "Hide"
+msgstr "非表示"
+
+msgid "Categories Settings"
+msgstr "カテゴリ設定"
+
+msgid "Post Categories"
+msgstr "カテゴリー"
+
+msgid "Categories to be displayed"
+msgstr "表示されるカテゴリー"
+
+msgid "Show All"
+msgstr "すべて表示"
+
+msgid "Top One Category"
+msgstr "トップワンカテゴリー"
+
+msgid "Number of Categories"
+msgstr "カテゴリの数"
+
+msgid "Author and Date Settings"
+msgstr "著者と日付の設定"
+
+msgid "Author Icon"
+msgstr "著者アイコン"
+
+msgid "Show Gravatar"
+msgstr "グラバターを表示"
+
+msgid "Show Icon"
+msgstr "アイコンを表示"
+
+msgid "None"
+msgstr "なし"
+
+msgid "Date Format"
+msgstr "日付形式"
+
+msgid "WordPress Default Date Format"
+msgstr "WordPress のデフォルトの日付形式"
+
+msgid "Ago Date Format"
+msgstr "以前の日付の形式"
+
+msgid "Minutes Read Count"
+msgstr "分単位の読み取りカウント"
+
+msgid "Excerpt Settings"
+msgstr "抜粋設定"
+
+msgid "Global Excerpt Read More"
+msgstr "グローバル抜粋 続きを読む"
+
+msgid "Primary Menu Section"
+msgstr "プライマリメニューセクション"
+
+msgid "Show Primary Menu Description"
+msgstr "主要メニューの説明を表示"
+
+msgid "Enable Custom Menu Section"
+msgstr "カスタムメニューセクションを有効にする"
+
+msgid "Title"
+msgstr "タイトル"
+
+msgid "Link"
+msgstr "リンク"
+
+msgid "Single Post"
+msgstr "個別投稿"
+
+msgid "Show Featured Image"
+msgstr "アイキャッチ画像を表示"
+
+msgid "Featured Image Width"
+msgstr "アイキャッチ画像の幅"
+
+msgid "Full - Default"
+msgstr "フル - デフォルト"
+
+msgid "Original"
+msgstr "オリジナル"
+
+msgid "Single Content Mode"
+msgstr "シングルコンテンツモード"
+
+msgid "Spacious"
+msgstr "余白広め"
+
+msgid "Social Share Option"
+msgstr "ソーシャルシェアオプション"
+
+msgid "Social Share from Jetpack plugin"
+msgstr "Jetpackプラグインからのソーシャルシェア"
+
+msgid "Top - Default"
+msgstr "上 - デフォルト"
+
+msgid "Bottom"
+msgstr "下"
+
+msgid "Show Author Bio under Content"
+msgstr "コンテンツの下に著者略歴を表示"
+
+msgid "Show Tags under Content"
+msgstr "コンテンツの下にタグを表示"
+
+msgid "Related Posts Settings"
+msgstr "関連投稿の設定"
+
+msgid "Enable Related Posts"
+msgstr "関連記事を有効化"
+
+msgid "Archive Settings"
+msgstr "アーカイブ設定"
+
+msgid "Disable Main Banner on Blog"
+msgstr "ブログのメインバナーを無効にする"
+
+msgid "Archive layout"
+msgstr "アーカイブのレイアウト"
+
+msgid "Select layout for archive"
+msgstr "アーカイブのレイアウトを選択"
+
+msgid "List"
+msgstr "一覧"
+
+msgid "Full"
+msgstr "全幅"
+
+msgid "Image Alignment"
+msgstr "画像の配置"
+
+msgid "Select image alignment for archive"
+msgstr "アーカイブ用の画像の配置を選択します"
+
+msgid "Select Title Position"
+msgstr "タイトルの位置を選択してください"
+
+msgid "Select full layout for archive"
+msgstr "アーカイブ用の完全なレイアウトを選択"
+
+msgid "After Image"
+msgstr "残像"
+
+msgid "Before Image"
+msgstr "前の画像"
+
+msgid "Content View"
+msgstr "コンテンツビュー"
+
+msgid "Select content view for archive"
+msgstr "アーカイブのコンテンツ ビューを選択してください"
+
+msgid "Post Excerpt"
+msgstr "記事の抜粋"
+
+msgid "Full Content"
+msgstr "全文"
+
+msgid "Search Options"
+msgstr "検索オプション"
+
+msgid "Search Results"
+msgstr "検索結果"
+
+msgid "Select search results for archive"
+msgstr "アーカイブの検索結果を選択してください"
+
+msgid "All (Pages, Posts, etc)"
+msgstr "すべて (ページ、投稿など)"
+
+msgid "Posts"
+msgstr "投稿"
+
+msgid "Ajax Results Dropdown"
+msgstr "Ajax 結果ドロップダウン"
+
+msgid "Sidebar Settings"
+msgstr "サイドバー設定"
+
+msgid "Make Sidebar Sticky"
+msgstr "サイドバーをスティッキーにする"
+
+msgid "Sidebar Sticky Position"
+msgstr "サイドバーの固定位置"
+
+msgid "Top"
+msgstr "上"
+
+msgid "You May Have Missed"
+msgstr "見逃したかもしれません"
+
+msgid "Show Above Footer"
+msgstr "フッターの上に表示"
+
+msgid "Posts Section Title"
+msgstr "投稿セクションのタイトル"
+
+msgid "Footer Background Image"
+msgstr "フッター背景画像"
+
+msgid "Copyright Text"
+msgstr "著作権テキスト"
+
+msgid "Hide footer Menu Section"
+msgstr "フッターメニューセクションを非表示にする"
+
+msgid "Pages:"
+msgstr "固定ページ:"
+
+msgid "Open Off-Canvas Navigation"
+msgstr "オフキャンバスナビゲーションを開く"
+
+msgid "Light/Dark Button"
+msgstr "ライト/ダークボタン"
+
+msgid "Layout Options"
+msgstr "レイアウト設定"
+
+msgid "Content Options"
+msgstr "コンテンツ設定"
+
+msgid "Set as global layout"
+msgstr "グローバルレイアウトとして設定"
+
+msgid "Please go to Customize>Themes Options for Single Post/Page."
+msgstr "[カスタマイズ] > [単一投稿/ページのテーマ オプション] に移動してください。"
+
+msgid "Sidebar Options"
+msgstr "サイドバー設定"
+
+msgid "Content - Primary Sidebar"
+msgstr "コンテンツ - サイドバー"
+
+msgid "Primary Sidebar - Content"
+msgstr "サイドバー - コンテンツ"
+
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+msgid "Please go to Customize>Front-page Options for Homepage."
+msgstr "[カスタマイズ] > [ホームページのフロントページ オプション] に移動してください。"
+
+msgid "Category Color 1"
+msgstr "カテゴリーの色1"
+
+msgid "Category Color 2"
+msgstr "カテゴリーの色2"
+
+msgid "Category Color 3"
+msgstr "カテゴリーの色3"
+
+msgid "Color Class"
+msgstr "色クラス"
+
+msgid ""
+"Select category color class. You can set appropriate categories color on "
+"\"Categories\" section of the theme customizer."
+msgstr "カテゴリのカラークラスを選択します。テーマカスタマイザーの「カテゴリ」セクションで適切なカテゴリの色を設定できます。"
+
+msgid "Templatespare"
+msgstr "テンプレートスペア"
+
+msgid "Elespare"
+msgstr "エレスペア"
+
+msgid "Blockspare"
+msgstr "ブロックスペア"
+
+msgid "WP Post Author"
+msgstr "WP投稿著者"
+
+msgid "Free Live Chat using 3CX"
+msgstr "3CX を使用した無料のライブ チャット"
+
+msgid "Large Post with Background"
+msgstr "背景付きの大きな投稿"
+
+msgid "3 Columns Post Grid with Background"
+msgstr "背景付き 3 列ポスト グリッド"
+
+msgid "Post Grid with Background"
+msgstr "背景付きポストグリッド"
+
+msgid "Post List with Background"
+msgstr "背景付き投稿リスト"
+
+msgid "Single Post Column with Background"
+msgstr "背景付きの単一投稿列"
+
+msgid "Ticker News"
+msgstr "ティッカーニュース"
+
+msgid "Featured News"
+msgstr "注目のニュース"
+
+msgid "Three Columns Posts"
+msgstr "3 列のポスト"
+
+msgid "Three Columns"
+msgstr "3列"
+
+msgid "Post Carousel"
+msgstr "ポストカルーセル"
+
+msgid "Large Post with Dark Background"
+msgstr "暗い背景の大きな投稿"
+
+msgid "3 Columns Post Grid with Dark Background"
+msgstr "暗い背景の 3 列ポスト グリッド"
+
+msgid "Post Grid with Dark Background"
+msgstr "暗い背景のポストグリッド"
+
+msgid "Post List with Dark Background"
+msgstr "背景が暗い投稿リスト"
+
+msgid "Single Post Column with Dark Background"
+msgstr "暗い背景の単一投稿列"
+
+msgid "Express Grid"
+msgstr "エクスプレスグリッド"
+
+msgid "About Author"
+msgstr "著者について"
+
+msgid ""
+"We mainly focus on quality code and elegant design with incredible support. "
+"Our WordPress themes and plugins empower you to create an elegant, "
+"professional, and easy-to-maintain website in no time at all. Even on mobile"
+" and tablet screens, your website will look great"
+msgstr ""
+"私たちは主に、優れたサポートを提供する高品質のコードとエレガントなデザインに重点を置いています。当社の WordPress "
+"テーマとプラグインを使用すると、エレガントでプロフェッショナルで、メンテナンスが簡単な Web "
+"サイトをすぐに作成できます。モバイルやタブレットの画面上でも、ウェブサイトは見栄えがよくなります"
+
+msgid "Post Slider"
+msgstr "ポストスライダー"
+
+msgid "Post Grid"
+msgstr "ポストグリッド"
+
+msgid "Post List"
+msgstr "投稿一覧"
+
+msgid "Connect to Us"
+msgstr "私たちに接続してください"
+
+msgid "Advertisement"
+msgstr "広告"
+
+msgid "Express Tile"
+msgstr "エクスプレスタイル"
+
+msgid "Single Column"
+msgstr "単一列"
+
+msgid "Categories"
+msgstr "カテゴリー"
+
+msgid "Section 1"
+msgstr "セクション1"
+
+msgid "Section 2"
+msgstr "セクション2"
+
+msgid "Section 3"
+msgstr "セクション 3"
+
+msgid "Section 4"
+msgstr "セクション 4"
+
+msgid "3 Columns Post Grid - 2"
+msgstr "3 列ポストグリッド - 2"
+
+msgid "3 Columns Post Grid"
+msgstr "3列ポストグリッド"
+
+msgid "Post Grid - 2"
+msgstr "ポストグリッド - 2"
+
+msgid "Large Posts - 2"
+msgstr "大きなポスト - 2"
+
+msgid "Large Posts"
+msgstr "大きなポスト"
+
+msgid "Single Column - 2"
+msgstr "単一列 - 2"
+
+msgid "Post List - 2"
+msgstr "投稿リスト - 2"
+
+msgid ""
+"Howdy, %1$s! We've noticed that you've been using %2$s for some time now, we"
+" hope you are loving it! We would appreciate it if you can give us "
+"%3$sreview and rating%4$s on WordPress.org! We'll continue to develop "
+"exciting new features for free in the future by sharing the love!"
+msgstr ""
+"こんにちは、%1$s!しばらくの間、%2$s をご利用いただいているようですが、気に入っていただければ幸いです。 WordPress.org で "
+"%3$s のレビューと評価 %4$s をしていただければ幸いです。私たちは愛を分かち合うことで、今後もエキサイティングな新機能を無料で開発し続けます。"
+
+msgid "Sure thing"
+msgstr "確かに"
+
+msgid "Remind me later"
+msgstr "後で再通知"
+
+msgid "I've already done."
+msgstr "もうやりました。"
+
+msgid "Got any support queries?"
+msgstr "サポートに関する質問はありますか?"
+
+msgid "Read more about %s"
+msgstr "%s についてさらに読む"
+
+msgid "Previous"
+msgstr "前"
+
+msgid "Next"
+msgstr "次"
+
+msgid "%s minute read"
+msgid_plural "%s minutes read"
+msgstr[0] "%s 分の読み取り"
+
+msgid "About the Author"
+msgstr "著者について"
+
+msgid "Visit Website"
+msgstr "ウェブサイトにアクセス"
+
+msgid "View All Posts"
+msgstr "すべての投稿を表示"
+
+msgid "Posted on %s"
+msgstr "投稿日: %s"
+
+msgid "Posted on %s %s"
+msgstr "投稿日: %s %s"
+
+msgid "ago"
+msgstr "前"
+
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "編集 <span class=\"screen-reader-text\">%s</span>"
+
+msgid "Searching..."
+msgstr "検索中..."
+
+msgid "Invalid security token."
+msgstr "不正なセキュリティトークンです。"
+
+msgid "Live search results"
+msgstr "ライブ検索結果"
+
+msgid "View all search results"
+msgstr "すべての検索結果を表示する"
+
+msgid "View all results for \"%s\""
+msgstr "「%s」のすべての結果を表示"
+
+msgid "No results found."
+msgstr "見つかりませんでした。"
+
+msgid "Action failed. Please refresh the page and retry."
+msgstr "操作に失敗しました。ページを再読み込みし、もう一度お試しください。"
+
+msgid "Cheatin&#8217; huh?"
+msgstr "間違えましたか?"
+
+msgid ""
+"%1$s 🎁 Hope you're loving our free %2$s theme! Dive into the festive spirit "
+"with an exclusive gift: %4$s premium features! Use code %3$s at checkout. "
+"Wishing you a season filled with joyous holidays and even happier savings! "
+"🎄✨"
+msgstr ""
+"%1$s 🎁 無料の %2$s テーマを気に入っていただければ幸いです!特別なギフトでお祭り気分を満喫しましょう: %4$s "
+"のプレミアム機能!チェックアウト時にコード %3$s を使用してください。楽しい休暇と、さらに幸せな節約に満ちたシーズンになることを願っています。 🎄✨"
+
+msgid "Claim Your Discount"
+msgstr "割引を請求する"
+
+msgid "Power Bundle"
+msgstr "パワーバンドル"
+
+msgid "All Themes Plan"
+msgstr "全テーマプラン"
+
+msgid "Maybe Later"
+msgstr "多分後で"
+
+msgid "Have Queries?"
+msgstr "ご質問がありますか?"
+
+msgid "Displays author info."
+msgstr "作者情報を表示します。"
+
+msgid "AFTMN Author Info"
+msgstr "AFTMN著者情報"
+
+msgid "Profile image"
+msgstr "プロフィール画像"
+
+msgid "Name"
+msgstr "名前"
+
+msgid "Descriptions"
+msgstr "説明"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "Displays Express Posts from selected categories."
+msgstr "選択したカテゴリからのエクスプレス投稿を表示します。"
+
+msgid "AFTMN Express Posts List"
+msgstr "AFTMN Express 投稿リスト"
+
+msgid "Displays grid from selected categories."
+msgstr "選択したカテゴリのグリッドを表示します。"
+
+msgid "AFTMN Post Double Columns"
+msgstr "AFTMN ポストダブルカラム"
+
+msgid "Select Category 1"
+msgstr "カテゴリ 1 を選択します"
+
+msgid "Select Category 2"
+msgstr "カテゴリ 2 を選択します"
+
+msgid "AFTMN Post Grid"
+msgstr "AFTMN ポストグリッド"
+
+msgid "AFTMN Post List"
+msgstr "AFTMN投稿一覧"
+
+msgid "Displays posts single column from selected categories."
+msgstr "選択したカテゴリからの投稿を 1 列で表示します。"
+
+msgid "AFTMN Post Single Column"
+msgstr "AFTMN ポスト単一列"
+
+msgid "Displays posts slider from selected category."
+msgstr "選択したカテゴリーから商品スライダーを表示します。"
+
+msgid "AFTMN Posts Slider"
+msgstr "AFTMN 投稿スライダー"
+
+msgid "Select category"
+msgstr "カテゴリーを選択"
+
+msgid "Displays social contacts lists from selected settings."
+msgstr "選択した設定からソーシャル連絡先リストを表示します。"
+
+msgid "AFTMN Social Contacts"
+msgstr "AFTMN ソーシャルコンタクト"
+
+msgid "Connect with Us"
+msgstr "私たちとつながりましょう"
+
+msgid ""
+"Social menu is not set. You need to create menu and assign it to Social Menu"
+" on Menu Settings."
+msgstr "ソーシャルメニューは設定されていません。メニューを作成し、メニュー設定でソーシャルメニューに割り当てる必要があります。"
+
+msgid "AFTMN Trending News"
+msgstr "AFTMN トレンドニュース"
+
+msgid "Upload"
+msgstr "アップロード"
+
+msgid "Select Image"
+msgstr "画像を選択"
+
+msgid "Choose Image"
+msgstr "画像を選ぶ"
+
+msgctxt "Remove"
+msgid "X"
+msgstr "X"
+
+msgid "Recent"
+msgstr "最近"
+
+msgid "Header Banner Ad Section"
+msgstr "ヘッダー バナー広告セクション"
+
+msgid "Add widgets for frontpage banner section advertisement."
+msgstr "フロントページのバナーセクション広告用のウィジェットを追加します。"
+
+msgid "Off Canvas Drawer Menu Section"
+msgstr "オフキャンバスドロワーメニューセクション"
+
+msgid "Add widgets for off-canvas section."
+msgstr "オフキャンバスセクションにウィジェットを追加します。"
+
+msgid "Main Sidebar"
+msgstr "メインスライダー"
+
+msgid "Add widgets for main sidebar."
+msgstr "メインサイドバー用のウィジェットを追加します。"
+
+msgid "Front-page Content Section"
+msgstr "フロントページコンテンツ上セクション"
+
+msgid "Add widgets to front-page contents section."
+msgstr "フロントページのコンテンツセクションにウィジェットを追加します。"
+
+msgid "Front-page Sidebar Section"
+msgstr "フロントページ左サイドバーセクション"
+
+msgid "Add widgets to front-page sidebar section."
+msgstr "フロントページのサイドバーセクションにウィジェットを追加します。"
+
+msgid "Footer Widget 1"
+msgstr "フッターウィジェット1"
+
+msgid "Displays items on footer first column."
+msgstr "フッターの1列目に項目を表示します。"
+
+msgid "Footer Widget 2"
+msgstr "フッターウィジェット2"
+
+msgid "Displays items on footer second column."
+msgstr "フッターの2列目に項目を表示します。"
+
+msgid "Footer Widget 3"
+msgstr "フッターウィジェット3"
+
+msgid "Displays items on footer third column."
+msgstr "フッターの3列目に項目を表示します。"
+
+msgid "View your shopping cart"
+msgstr "お買い物カゴを表示"
+
+msgid "%d item"
+msgid_plural "%d items"
+msgstr[0] "%d 個のアイテム"
+
+msgid "Browse:"
+msgstr "続きを読む:"
+
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr "パンくずリスト"
+
+msgid "Home"
+msgstr "ホーム"
+
+msgid "404 Not Found"
+msgstr "404: 見つかりませんでした"
+
+msgid "Archives"
+msgstr "アーカイブ"
+
+msgid "Search results for: %s"
+msgstr "検索結果: %s"
+
+msgid "Page %s"
+msgstr "ページ %s"
+
+msgid "Comment Page %s"
+msgstr "コメントページ %s"
+
+msgid "Minute %s"
+msgstr "%s分"
+
+msgid "Week %s"
+msgstr "%s週"
+
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr "g:i a"
+
+msgctxt "minute archives time format"
+msgid "i"
+msgstr "i"
+
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr "g a"
+
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y年"
+
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr "n月"
+
+msgctxt "daily archives date format"
+msgid "j"
+msgstr "j日"
+
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr "W"
+
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマにはプラグイン %1$s が必要です。"
+
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマでは次のプラグインを推奨します: %1$s。"
+
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの互換性を最大限に確保するには、次のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "%1$s に利用可能なアップデートがあります。"
+
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "次の必須プラグインは現在非アクティブです: %1$s。"
+
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "次の推奨プラグインは現在非アクティブです: %1$s。"
+
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始する"
+
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始する"
+
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始する"
+
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "次のプラグインは正常に有効化されました:"
+
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr "インストール・更新・有効化可能な必須・推奨プラグインがあります。"
+
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+msgid "Update Required"
+msgstr "更新が必要です"
+
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+msgid "Required"
+msgstr "必須"
+
+msgid "Recommended"
+msgstr "推奨"
+
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+msgid "External Source"
+msgstr "外部ソース"
+
+msgid "Pre-Packaged"
+msgstr "パッケージ化済み"
+
+msgid "Not Installed"
+msgstr "未インストール"
+
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+msgid "Active"
+msgstr "有効"
+
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべての<span class=\"count\">(%s)</span>"
+
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> をインストールするには"
+
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能なアップデート <span class=\"count\">(%s)</span>"
+
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "<span class=\"count\">(%s)</span> をアクティブにするには"
+
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+msgid "No plugins to install, update or activate."
+msgstr "インストール・更新・有効化可能なプラグインがありません。"
+
+msgid "Plugin"
+msgstr "プラグイン"
+
+msgid "Source"
+msgstr "ソース"
+
+msgid "Type"
+msgstr "タイプ"
+
+msgid "Version"
+msgstr "バージョン"
+
+msgid "Status"
+msgstr "ステータス"
+
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+msgid "Install"
+msgstr "インストール"
+
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+msgid ""
+"The installation and activation process is starting. This process may take a"
+" while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+msgid "%1$s done."
+msgstr "%1$s が完了しました。"
+
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+msgid "Blank Canvas"
+msgstr "空白のキャンバス"
+
+msgid "Page Builder Full Width"
+msgstr "ページビルダー用全幅"
+
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+msgid "Nothing Found"
+msgstr "何も見つかりませんでした"
+
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "最初の投稿を公開する準備はできましたか? <a href=\"%1$s\">ここから始めましょう</a>。"
+
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。別のキーワードでもう一度お試しください。"
+
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "<span class=\"screen-reader-text\">\"%s\" の</span>続きを読む"
+
+msgid "Previous: %s"
+msgstr "前: %s"
+
+msgid "Next: %s"
+msgstr "次へ: %s"
+
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+msgid "Update Blockspare Pro"
+msgstr "Blockspare Pro をアップデートする"
+
+msgid "Update Blockspare"
+msgstr "ブロックスペアの更新"
+
+msgid "Powerful Gutenberg Blocks & Patterns"
+msgstr "強力な Gutenberg ブロックとパターン"
+
+msgid ""
+"Easily build and customize your pages with a vast library of Gutenberg "
+"blocks and patterns, perfect for blogs, magazines, and business sites. Add "
+"post grids, sliders, and carousels without touching a single line of code. "
+"Import demo data and effortlessly create multilingual, visually appealing "
+"pages with complete flexibility."
+msgstr ""
+"ブログ、雑誌、ビジネス サイトに最適な、Gutenberg "
+"ブロックとパターンの膨大なライブラリを使用してページを簡単に構築およびカスタマイズできます。コードを 1 行も触れずに、ポスト "
+"グリッド、スライダー、カルーセルを追加します。デモ データをインポートし、多言語で視覚的に魅力的なページを完全な柔軟性で簡単に作成できます。"
+
+msgid "Hello "
+msgstr "こんにちは"
+
+msgid "Welcome to "
+msgstr "へようこそ"
+
+msgid "Free"
+msgstr "無料"
+
+msgid "Start with Demo Sites"
+msgstr "デモサイトから始める"
+
+msgid "Start Customizing"
+msgstr "カスタマイズを開始"
+
+msgid "Update Elespare Pro"
+msgstr "Elespare Pro をアップデートする"
+
+msgid "Update Elespare"
+msgstr "エレスペアをアップデートする"
+
+msgid "Professional Sites with Elementor"
+msgstr "Elementor を使用したプロフェッショナル サイト"
+
+msgid ""
+"Transform your blog, news, or magazine website with 35+ advanced Elementor "
+"widgets and 350+ customizable templates. Easily create headers, footers, "
+"post grids, sliders, and carousels with a fast-loading and SEO-optimized "
+"structure. Import demo content with a single click and enjoy codeless "
+"customization to craft your perfect site, no matter the language."
+msgstr ""
+"35 個以上の高度な Elementor ウィジェットと 350 個以上のカスタマイズ可能なテンプレートを使用して、ブログ、ニュース、雑誌の Web "
+"サイトを変革します。高速読み込みで SEO に最適化された構造を備えたヘッダー、フッター、投稿グリッド、スライダー、カルーセルを簡単に作成できます。デモ"
+" コンテンツをワンクリックでインポートし、言語に関係なくコードレスでカスタマイズして完璧なサイトを作成できます。"
+
+msgid ""
+"Thank you for installing [theme] — a fast, flexible, and user-friendly theme"
+" for blogs, news sites, and magazines. Get started quickly with our 100+ "
+"one-click starter sites — no coding needed."
+msgstr ""
+"[テーマ] をインストールしていただきありがとうございます。ブログ、ニュース サイト、雑誌向けの高速かつ柔軟で使いやすいテーマです。 100 "
+"以上のワンクリック スターター サイトですぐに始められます。コーディングは必要ありません。"
+
+msgid "Get Full Control"
+msgstr "PRO 機能のロックを解除する"
+
+msgid "Docs"
+msgstr "ドキュメント"
+
+msgid "Need Help?"
+msgstr "助けが必要ですか?"
+
+msgid "Rate This Theme"
+msgstr "このテーマを評価する"
+
+msgid "Starter Sites Import"
+msgstr "スターター サイトのインポート"
+
+msgid "Live Editing in Customizer"
+msgstr "カスタマイザーでのライブ編集"
+
+msgid "Dark/Light Site Mode"
+msgstr "ダーク/ライトサイトモード"
+
+msgid "Dark/Light Frontend Switch"
+msgstr "ダーク/ライト フロントエンド スイッチ"
+
+msgid "Responsive Layout"
+msgstr "レスポンシブレイアウト"
+
+msgid "Disable WordPress Emojis (GDPR Friendly)"
+msgstr "WordPress 絵文字を無効にする (GDPR 対応)"
+
+msgid "Basic Typography Style"
+msgstr "基本的なタイポグラフィ スタイル"
+
+msgid "Advanced Typography Style (Google & System Fonts - GDPR Friendly)"
+msgstr "高度なタイポグラフィ スタイル (Google およびシステム フォント - GDPR 対応)"
+
+msgid "Basic Color Controls"
+msgstr "基本的なカラーコントロール"
+
+msgid "Advanced Color Controls (Global Options)"
+msgstr "高度なカラー コントロール (グローバル オプション)"
+
+msgid "Category Color Options"
+msgstr "カテゴリの色のオプション"
+
+msgid "Hide Theme Credit Link"
+msgstr "テーマのクレジットリンクを非表示にする"
+
+msgid "Custom CSS Output Minified"
+msgstr "カスタム CSS 出力の縮小"
+
+msgid "Custom CSS Output Optimized with Mobile Spacing"
+msgstr "モバイルの間隔で最適化されたカスタム CSS 出力"
+
+msgid "Improved Font Loading Partial"
+msgstr "部分的なフォント読み込みの改善"
+
+msgid "Improved Font Loading System/Google Switch + Preconnect"
+msgstr "改善されたフォント読み込みシステム/Google Switch + Preconnect"
+
+msgid "Top Header Menu"
+msgstr "トップヘッダーメニュー"
+
+msgid "Multiple Header Layouts (10+ including Centered & Compressed)"
+msgstr "複数のヘッダー レイアウト (中央揃えと圧縮を含む 10 以上)"
+
+msgid "Sticky Header Option Basic"
+msgstr "スティッキー ヘッダー オプション 基本"
+
+msgid "Sticky Header Option Advanced Behavior & Layout Support"
+msgstr "Sticky ヘッダー オプションの高度な動作とレイアウトのサポート"
+
+msgid "Header Advertisement Widget Area"
+msgstr "ヘッダー広告ウィジェットエリア"
+
+msgid "Header & Footer Builder (Drag-and-Drop)"
+msgstr "ヘッダーとフッター ビルダー (ドラッグ アンド ドロップ)"
+
+msgid "Customizer Options for Builder Elements"
+msgstr "ビルダー要素のカスタマイザー オプション"
+
+msgid ""
+"Footer Builder Elements (Navigation, Widgets, Custom HTML, Dynamic Text)"
+msgstr "フッタービルダー要素 (ナビゲーション、ウィジェット、カスタム HTML、ダイナミック テキスト)"
+
+msgid "Additional Menu Locations (incl. Top Menu Element)"
+msgstr "追加のメニューの場所 (トップ メニュー要素を含む)"
+
+msgid "Front-page Banner Layouts Basic (5+ Layouts)"
+msgstr "フロントページ バナー レイアウト 基本 (5 つ以上のレイアウト)"
+
+msgid "Front-page Banner Layouts Advanced (30+ Layouts)"
+msgstr "フロントページのバナーレイアウトの詳細 (30 以上のレイアウト)"
+
+msgid "Banner Post Filter: Category & Tag"
+msgstr "バナー投稿フィルター: カテゴリとタグ"
+
+msgid "Banner Post Filter: Views & Comments"
+msgstr "バナー投稿フィルター: ビューとコメント"
+
+msgid "Above/Below Banner Widget Areas"
+msgstr "バナーウィジェットエリアの上/下"
+
+msgid "Featured Videos Section (Custom Field + Responsive)"
+msgstr "注目のビデオ セクション (カスタム フィールド + レスポンシブ)"
+
+msgid "Express / 3 Column Posts Section"
+msgstr "エクスプレス / 3 列ポスト セクション"
+
+msgid "Posts Carousel Section"
+msgstr "投稿カルーセル セクション"
+
+msgid "Reading Progress Bar"
+msgstr "読み取り進捗バー"
+
+msgid "Post Subtitle Field"
+msgstr "ポスト字幕フィールド"
+
+msgid "Source & Sponsor Custom Field"
+msgstr "ソースとスポンサーのカスタムフィールド"
+
+msgid "Post Badge Taxonomy (Breaking, Premium)"
+msgstr "ポストバッジ分類法 (速報、プレミアム)"
+
+msgid "Post Reaction Feature (Animated, Localized, Color Custom)"
+msgstr "ポストリアクション機能 (アニメーション、ローカライズ、カラーカスタム)"
+
+msgid "Author Box Basic"
+msgstr "オーサーボックスベーシック"
+
+msgid "Author Box with Donate Link, Website & Author Posts"
+msgstr "寄付リンク、ウェブサイト、著者投稿を備えた著者ボックス"
+
+msgid "Trending Posts in Single Post"
+msgstr "単一の投稿のトレンド投稿"
+
+msgid "Jetpack Share Buttons Placement"
+msgstr "Jetpack 共有ボタンの配置"
+
+msgid "Mailchimp Subscribe Box"
+msgstr "Mailchimp 購読ボックス"
+
+msgid ""
+"Single Post Analytics Metabox (Views, Reactions, Word Count, Read Time, "
+"Links, Top Domains)"
+msgstr "シングルポスト分析メタボックス (ビュー、リアクション、ワード数、読み取り時間、リンク、トップドメイン)"
+
+msgid "AJAX Refresh + Caching for Post Analytics"
+msgstr "ポスト分析のための AJAX リフレッシュ + キャッシュ"
+
+msgid "Centralized Site Analytics Page (Tabbed UI)"
+msgstr "一元的なサイト分析ページ (タブ付き UI)"
+
+msgid ""
+"Site-wide Metrics (Posts, Pages, Media, Top Posts, Categories, Tags, "
+"Authors, Reactions, Comments, Word Count, Read Time)"
+msgstr "サイト全体の指標 (投稿、ページ、メディア、トップ投稿、カテゴリ、タグ、著者、反応、コメント、文字数、読み取り時間)"
+
+msgid ""
+"Charts for Posts, Comments, Reactions, Links, Authors, Categories, Tags, Top"
+" Posts"
+msgstr "投稿、コメント、反応、リンク、作成者、カテゴリ、タグ、トップ投稿のグラフ"
+
+msgid "Unified Chart Styles and Colors"
+msgstr "統一されたグラフのスタイルと色"
+
+msgid "Archive Post Layouts List & Full"
+msgstr "アーカイブ投稿レイアウトのリストと全体"
+
+msgid "Archive Post Layouts Grid, Tile, Masonry, List Alt, Right, Mixed"
+msgstr "アーカイブ投稿レイアウト グリッド、タイル、石積み、リスト Alt、右、混合"
+
+msgid "Category-wise Post Layout (Global Only)"
+msgstr "カテゴリ別の投稿レイアウト (グローバルのみ)"
+
+msgid "Category-wise Post Layout (Category Specific)"
+msgstr "カテゴリ別の投稿レイアウト (カテゴリ固有)"
+
+msgid "Pagination Numeric"
+msgstr "ページネーション 数値"
+
+msgid "Pagination Ajax Load More & Infinite Scroll"
+msgstr "ページネーション Ajax もっと読み込んで無限スクロール"
+
+msgid "Basic Custom Widgets (5+ Layouts)"
+msgstr "基本的なカスタム ウィジェット (5 つ以上のレイアウト)"
+
+msgid "Advanced Custom Widgets Count (15+ Layouts)"
+msgstr "高度なカスタム ウィジェット数 (15 以上のレイアウト)"
+
+msgid "Section Title Designs (Multiple Styles)"
+msgstr "セクションタイトルのデザイン (複数のスタイル)"
+
+msgid "Trending Posts Carousel (Tag, Views)"
+msgstr "トレンド投稿カルーセル (タグ、ビュー)"
+
+msgid "YouTube Video Slider Widget"
+msgstr "YouTubeビデオスライダーウィジェット"
+
+msgid "Post Express / Grid / Tabbed Widgets"
+msgstr "Post Express / グリッド / タブ付きウィジェット"
+
+msgid "Centralized Advertisement Support"
+msgstr "一元的な広告サポート"
+
+msgid "Rotating Ads with Split Option"
+msgstr "分割オプションを使用した広告のローテーション"
+
+msgid "Ad Placement Areas (Header, Content, Footer, Archive)"
+msgstr "広告配置領域 (ヘッダー、コンテンツ、フッター、アーカイブ)"
+
+msgid "Centralized Ads Management Panel"
+msgstr "一元的な広告管理パネル"
+
+msgid "Widget Areas Header, Front-page, Sidebar, Footer"
+msgstr "ウィジェット領域 ヘッダー、フロントページ、サイドバー、フッター"
+
+msgid "Widget Areas Banner, Featured, Inline"
+msgstr "ウィジェットエリア バナー、注目、インライン"
+
+msgid "Advanced Widgets (Carousel, Express, Tabs)"
+msgstr "高度なウィジェット (カルーセル、エクスプレス、タブ)"
+
+msgid "Free Theme Tone (Default)"
+msgstr "無料のテーマトーン (デフォルト)"
+
+msgid ""
+"Premium Theme Tones (BlackNews, CelebNews, GamerNews, NewsCorp, NewsDay, "
+"Newsical, NewsLight, NewsMore, SideNews)"
+msgstr ""
+"プレミアム テーマ トーン "
+"(BlackNews、CelebNews、GamerNews、NewsCorp、NewsDay、Newsical、NewsLight、NewsMore、SideNews)"
+
+msgid "Gutenberg & Page Builders Compatibility"
+msgstr "Gutenberg とページ ビルダーの互換性"
+
+msgid "Multilingual & RTL Support"
+msgstr "多言語とRTLのサポート"
+
+msgid "WooCommerce Support"
+msgstr "WooCommerceサポート"
+
+msgid "SEO Ready Basic"
+msgstr "SEO対応ベーシック"
+
+msgid "SEO Ready with Open Graph Enhancements"
+msgstr "Open Graph の機能強化により SEO 対応"
+
+msgid "Standard Support"
+msgstr "標準サポート"
+
+msgid "Priority Support (Faster Response)"
+msgstr "優先サポート（より迅速な対応）"
+
+msgid ""
+"Create a beautiful, professional website quickly with easy theme options."
+msgstr "簡単なテーマ オプションを使用して、美しくプロフェッショナルな Web サイトをすばやく作成します。"
+
+msgid "Import Demo Sites"
+msgstr "デモサイトをインポートする"
+
+msgid ""
+"Launch your site instantly with 100+ ready-made demos for blogs and news."
+msgstr "ブログやニュース用の 100 以上の既製デモを使用して、サイトを即座に起動します。"
+
+msgid "Import Elementor Kits"
+msgstr "Elementor キットのインポート"
+
+msgid "Use 35+ widgets and 350+ templates to build powerful Elementor pages."
+msgstr "35 個以上のウィジェットと 350 個以上のテンプレートを使用して、強力な Elementor ページを構築します。"
+
+msgid "Import Block Patterns"
+msgstr "ブロックパターンをインポートする"
+
+msgid ""
+"Build pages fast with a large collection of Gutenberg blocks & patterns."
+msgstr "Gutenberg ブロックとパターンの大規模なコレクションを使用してページを高速に構築します。"
+
+msgid ""
+"Set the theme header type, set the colors, spacing, alignment and more."
+msgstr "テーマのヘッダー タイプを設定し、色、間隔、配置などを設定します。"
+
+msgid "Banner Advertisement"
+msgstr "バナー広告"
+
+msgid ""
+"You can easily place your promotional banners within your header section."
+msgstr "ヘッダー セクション内にプロモーション バナーを簡単に配置できます。"
+
+msgid "Color Options"
+msgstr "カラー設定"
+
+msgid "Change the color setting provide with the Theme."
+msgstr "テーマに用意されている色の設定を変更します。"
+
+msgid "Selecting different categories can be done for different section."
+msgstr "異なるカテゴリを選択することは、異なるセクションに対して行うことができます。"
+
+msgid "Front-page Option"
+msgstr "フロントページオプション"
+
+msgid ""
+"Front-page layout with Popular Tag, Breaking News, Feature News can be set."
+msgstr "人気タグ、速報ニュース、特集ニュースのトップページレイアウトを設定できます。"
+
+msgid "Static Front Page"
+msgstr "静的なフロントページ"
+
+msgid ""
+"Set the Homepage as a static page to create own homepage using widgets."
+msgstr "ウィジェットを使用して独自のホームページを作成するには、ホームページを静的ページとして設定します。"
+
+msgid "Widgets Area"
+msgstr "ウィジェットエリア"
+
+msgid "Widgets can be added on all the section provide by the Theme."
+msgstr "ウィジェットは、テーマによって提供されるすべてのセクションに追加できます。"
+
+msgid "Archive Options"
+msgstr "アーカイブオプション"
+
+msgid "Customize the blog layout desgin."
+msgstr "ブログのレイアウトデザインをカスタマイズします。"
+
+msgid "Theme Option"
+msgstr "テーマオプション"
+
+msgid ""
+"Set the Global Layout, Breadcrumb, Sidebar, Single Post, You may have missed"
+" and more."
+msgstr "グローバル レイアウト、ブレッドクラム、サイドバー、単一投稿、見逃している可能性などを設定します。"
+
+msgid "Set the footer type, number of columns, spacing and colors."
+msgstr "フッターの種類、列数、間隔、色などを設定します。"
+
+msgid "Upgrade to MoreNews Pro - More Power, More Control!"
+msgstr "MoreNews Pro にアップグレード - さらなるパワー、さらなるコントロール!"
+
+msgid ""
+"Get premium features, advanced customization, and powerful features to "
+"create a website that truly stands out."
+msgstr "プレミアム機能、高度なカスタマイズ、強力な機能を利用して、本当に目立つ Web サイトを作成します。"
+
+msgid "100+ Advanced Homepage & Banner Layouts"
+msgstr "100 以上の高度なホームページとバナーのレイアウト"
+
+msgid "Advanced Typography & Global Color Controls"
+msgstr "高度なタイポグラフィーとグローバル カラー コントロール"
+
+msgid "Pro Analytics Dashboard (Charts & Metrics)"
+msgstr "プロ分析ダッシュボード (チャートとメトリクス)"
+
+msgid "Centralized Ads Manager + Rotating Ads"
+msgstr "一元的な広告マネージャー + ローテーション広告"
+
+msgid "Reader Engagements (Reaction, Bookmark & More)"
+msgstr "読者のエンゲージメント (反応、ブックマークなど)"
+
+msgid ""
+"Please check our full documentation for detailed information on how to setup"
+" and customize the theme."
+msgstr "テーマのセットアップおよびカスタマイズ方法の詳細については、完全なドキュメントを参照してください。"
+
+msgid "Video  Tutorials"
+msgstr "ビデオチュートリアル"
+
+msgid "Watch More"
+msgstr "もっと見る"
+
+msgid "Watch out the videos for an easy learning on Customizing the Theme ."
+msgstr "テーマのカスタマイズについては、ビデオをご覧ください。"
+
+msgid ""
+"TemplateSpare - No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool. Get ready-to-use Starter Sites instantly and build "
+"modern websites in minutes."
+msgstr ""
+"TemplateSpare - コード不要の Web サイト ビルダー - 1 クリックのインポート/エクスポートおよびフル "
+"サイト移行ツール。すぐに使用できるスターター サイトをすぐに入手し、最新の Web サイトを数分で構築できます。"
+
+msgid ""
+"It has different widgets for post's author, selective author by id and "
+"custom author. It also provides shortcodes for the author profile."
+msgstr ""
+"投稿の作成者、ID による選択的な作成者、カスタム作成者用のさまざまなウィジェットがあります。著者プロフィールのショートコードも提供します。"
+
+msgid ""
+"Use AF Companion to import live demo content, widgets, and settings swiftly."
+" This plugin gives fundamental layout to build your website and accelerate "
+"the development process."
+msgstr ""
+"AF Companion を使用して、ライブ デモ コンテンツ、ウィジェット、設定を迅速にインポートします。このプラグインは、Web "
+"サイトを構築し、開発プロセスを加速するための基本的なレイアウトを提供します。"
+
+msgid ""
+"DESIGN PERFECT BLOG, NEWS, OR MAGAZINE WEBSITES Elespare is a simple yet "
+"effective WordPress plugin that lets you use Elementor to create fantastic "
+"Header, Footer and Contents of websites with highly customization options "
+"for FREE. "
+msgstr ""
+"完璧なブログ、ニュース、雑誌のウェブサイトをデザイン Elespare は、Elementor を使用して高度なカスタマイズ "
+"オプションを備えたウェブサイトの素晴らしいヘッダー、フッター、コンテンツを無料で作成できる、シンプルかつ効果的な WordPress プラグインです。"
+
+msgid ""
+"You may design complicated layouts for your website in just a few minutes "
+"with our adaptable and inventive blocks."
+msgstr "適応性のある独創的なブロックを使用すると、Web サイトの複雑なレイアウトをわずか数分でデザインできます。"
+
+msgid ""
+"A beautiful collection of latest posts Gutenberg blocks for WordPress, which"
+" helps you to design posts grid, posts list, full posts layout, advanced "
+"express posts design and tile layouts of your posts."
+msgstr ""
+"WordPress 用の最新投稿 Gutenberg "
+"ブロックの美しいコレクション。投稿グリッド、投稿リスト、完全な投稿レイアウト、高度な高速投稿デザイン、投稿のタイル "
+"レイアウトをデザインするのに役立ちます。"
+
+msgid ""
+"We build a beautiful series of page section Gutenberg blocks for WordPress "
+"content to help you quickly create the website you've always desired."
+msgstr ""
+"私たちは、WordPress コンテンツ用の一連の美しいページ セクション Gutenberg ブロックを構築し、常に望んでいた Web "
+"サイトを迅速に作成できるようにします。"
+
+msgid ""
+"This free plugin offers a free live chat solution for your website visitors "
+"to contact you via live chat or a live call - all for free! Engage with your"
+" customers and increase sales."
+msgstr ""
+"この無料プラグインは、Web サイト訪問者がライブ チャットまたはライブ通話を通じて連絡できる無料のライブ チャット "
+"ソリューションを提供します。すべて無料です。顧客と関わり、売上を増やします。"
+
+msgid ""
+"TemplateSpare -   No-Code Website Builder - 1-Click Import/Export and Full "
+"Site Migration Tool"
+msgstr ""
+"TemplateSpare - コード不要の Web サイト ビルダー - 1 クリックのインポート/エクスポートおよびフル サイト移行ツール"
+
+msgid ""
+"Get over 1000 ready-to-import Starter Sites instantly and build modern "
+"websites in minutes, not in weeks."
+msgstr "すぐにインポートできる 1,000 を超えるスターター サイトをすぐに入手し、数週間ではなく数分で最新の Web サイトを構築できます。"
+
+msgid "Get started"
+msgstr "始めてみよう"
+
+msgid "Useful Plugins"
+msgstr "役に立つプラグイン"
+
+msgid "Free vs Pro"
+msgstr "無料 vs プロ"
+
+msgid "Change Log"
+msgstr "変更ログ"
+
+msgid "Features"
+msgstr "機能"
+
+msgid "Go to option"
+msgstr "オプションに移動"
+
+msgid "No link"
+msgstr "リンクなし"
+
+msgid "Update Templatespare"
+msgstr "テンプレートスペアを更新する"
+
+msgid "Easy Website Building with Zero Code"
+msgstr "コードゼロで簡単にウェブサイトを構築"

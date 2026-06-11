@@ -1,0 +1,75 @@
+# Copyright (C) 2026 PanelAlpha
+# This file is distributed under the same license as the Control Panel Connection plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Control Panel Connection 1.6.0\n"
+"Report-Msgid-Bugs-To: https://panelalpha.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: PanelAlpha <support@panelalpha.com>\n"
+"Language-Team: English <support@panelalpha.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: controlpanel-connector\n"
+
+msgid "Control Panel Connection"
+msgstr "Control Panel Connection"
+
+#. Description of the plugin
+msgid "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+msgstr "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+
+msgid "Settings saved."
+msgstr "Settings saved."
+
+msgid "An error occurred while saving settings."
+msgstr "An error occurred while saving settings."
+
+msgid "An unexpected error occurred. Please try again."
+msgstr "An unexpected error occurred. Please try again."
+
+msgid "You do not have permission to manage plugin settings."
+msgstr "You do not have permission to manage plugin settings."
+
+msgid "Unauthorized"
+msgstr "Unauthorized"
+
+msgid "Settings"
+msgstr "Settings"
+
+msgid "Show Control Panel Bar"
+msgstr "Show Control Panel Bar"
+
+msgid "Display the Control Panel bar at the top of the page"
+msgstr "Display the Control Panel bar at the top of the page"
+
+msgid "Show Link In Admin Menu"
+msgstr "Show Link In Admin Menu"
+
+msgid "Display a link to the Control Panel in the WordPress admin menu"
+msgstr "Display a link to the Control Panel in the WordPress admin menu"
+
+msgid "Show Link In Admin Bar"
+msgstr "Show Link In Admin Bar"
+
+msgid "Display a link to the Control Panel in the WordPress admin bar"
+msgstr "Display a link to the Control Panel in the WordPress admin bar"
+
+msgid "Back to Control Panel"
+msgstr "Back to Control Panel"
+
+msgid "Upgrade Now"
+msgstr "Upgrade Now"
+
+msgid "Hide this bar"
+msgstr "Hide this bar"
+
+#, php-format
+msgid "Version %s"
+msgstr "Version %s"
+
+msgid "By"
+msgstr "By"

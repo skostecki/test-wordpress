@@ -1,0 +1,51 @@
+<?php
+/**
+ * Control Panel Bar Template
+ *
+ * Renders the control panel bar at the top of page/admin.
+ *
+ * Variables available:
+ * @var array $feed Feed data (includes translations, links, etc)
+ * @var string $cpUrl Control panel URL
+ */
+
+if (!defined('ABSPATH')) {
+	exit;
+}
+
+$backToPanelText = $feed['back_to_panel_text'] ?? __('Back to Control Panel', 'controlpanel-connector');
+$upgradeNowText = $feed['upgrade_now_text'] ?? __('Upgrade Now', 'controlpanel-connector');
+$message = $feed['message'] ?? '';
+?>
+
+<div id="controlpanelbar"
+	 class="controlpanelbar <?php echo( $feed['trial_expired'] ? 'controlpanelbar-danger' : ( $feed['is_trial'] ? 'controlpanelbar-warning' : '' ) ); ?>">
+	<a class="back-to-btn <?php echo( $feed['trial_expired'] ? 'back-to-btn-danger' : ( $feed['is_trial'] ? 'back-to-btn-warning' : '' ) ); ?>"
+	   href="<?php echo esc_url( $cpUrl ); ?>">
+		<svg class="back-to-btn-icon" width="14" height="10" viewBox="0 0 14 10" fill="none"
+			 xmlns="http://www.w3.org/2000/svg">
+			<path
+				d="M4.85352 9.44468C4.61289 9.55158 4.33398 9.50095 4.14258 9.31528L0.205078 5.48948C0.0738281 5.36289 0 5.18566 0 5C0 4.81434 0.0738281 4.63711 0.205078 4.51052L4.14258 0.684718C4.33398 0.499054 4.61289 0.448418 4.85352 0.555316C5.09414 0.662213 5.25 0.906952 5.25 1.1742V3.19962H13.125C13.609 3.19962 14 3.60189 14 4.09981V5.90019C14 6.39811 13.609 6.80038 13.125 6.80038H5.25V8.8258C5.25 9.09586 5.09414 9.33779 4.85352 9.44468Z"
+				fill="#9CA2A7"/>
+		</svg>
+		<?php echo esc_html( $feed['back_to_panel_text'] ); ?>
+	</a>
+	<div class="controlpanelbar-content">
+		<?php if ( $feed['message'] ): ?>
+			<div class="text"><?php echo wp_kses_post( $feed['message'] ); ?></div>
+		<?php endif; ?>
+		<?php if ( $feed['plan_upgrade_link'] ): ?>
+			<a class="upgrade-btn <?php echo( $feed['trial_expired'] ? 'upgrade-btn-danger' : ( $feed['is_trial'] ? 'upgrade-btn-warning' : '' ) ); ?>"
+			   href="<?php echo esc_url( $feed['plan_upgrade_link'] ); ?>"><?php echo esc_html( $feed['upgrade_now_text'] ); ?></a>
+		<?php endif; ?>
+	</div>
+	<?php if ( current_user_can( 'manage_options' ) ): ?>
+		<button class="controlpanelbar-dismiss-btn"
+				title="<?php echo esc_attr__( 'Hide this bar', 'controlpanel-connector' ); ?>">
+			<svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+				<path d="M1 1L15 15M1 15L15 1" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+					  stroke-linejoin="round"/>
+			</svg>
+		</button>
+	<?php endif; ?>
+</div>

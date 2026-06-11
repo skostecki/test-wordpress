@@ -1,0 +1,94 @@
+# Copyright (C) 2026 PanelAlpha
+# This file is distributed under the same license as the Control Panel Connection plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Control Panel Connection 1.6.0\n"
+"Report-Msgid-Bugs-To: https://panelalpha.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"X-Generator: WP-CLI 2.x\n"
+"X-Domain: controlpanel-connector\n"
+
+#. Plugin Name of the plugin
+msgid "Control Panel Connection"
+msgstr ""
+
+#. Description of the plugin
+msgid "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "Settings saved."
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "An error occurred while saving settings."
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "An unexpected error occurred. Please try again."
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "You do not have permission to manage plugin settings."
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "Unauthorized"
+msgstr ""
+
+#: controlpanel-connector/src/Settings.php
+msgid "Settings"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Show Control Panel Bar"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Display the Control Panel bar at the top of the page"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Show Link In Admin Menu"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Display a link to the Control Panel in the WordPress admin menu"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Show Link In Admin Bar"
+msgstr ""
+
+#: controlpanel-connector/templates/settings.phtml
+msgid "Display a link to the Control Panel in the WordPress admin bar"
+msgstr ""
+
+#: controlpanel-connector/templates/controlpanelbar.phtml
+msgid "Back to Control Panel"
+msgstr ""
+
+#: controlpanel-connector/templates/controlpanelbar.phtml
+msgid "Upgrade Now"
+msgstr ""
+
+#: controlpanel-connector/templates/controlpanelbar.phtml
+msgid "Hide this bar"
+msgstr ""
+
+#: controlpanel-connector/src/Plugin.php
+#, php-format
+msgid "Version %s"
+msgstr ""
+
+#: controlpanel-connector/src/Plugin.php
+msgid "By"
+msgstr ""

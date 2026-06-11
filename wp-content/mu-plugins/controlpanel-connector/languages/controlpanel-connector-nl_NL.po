@@ -1,0 +1,75 @@
+# Copyright (C) 2026 PanelAlpha
+# This file is distributed under the same license as the Control Panel Connection plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Control Panel Connection 1.6.0\n"
+"Report-Msgid-Bugs-To: https://panelalpha.com\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: PanelAlpha <support@panelalpha.com>\n"
+"Language-Team: Dutch <support@panelalpha.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Domain: controlpanel-connector\n"
+
+msgid "Control Panel Connection"
+msgstr "Configuratiescherm Verbinding"
+
+#. Description of the plugin
+msgid "This utility plugin is used by our control panel for various tasks, such as authenticating you as an admin when logging in through the WP Admin button, or helping you return to the control panel."
+msgstr "Deze hulpplugin wordt gebruikt door ons configuratiescherm voor verschillende taken, zoals het authenticeren als beheerder bij het inloggen via de WP Admin-knop, of om u te helpen terug te keren naar het configuratiescherm."
+
+msgid "Settings saved."
+msgstr "Instellingen opgeslagen."
+
+msgid "An error occurred while saving settings."
+msgstr "Er is een fout opgetreden bij het opslaan van de instellingen."
+
+msgid "An unexpected error occurred. Please try again."
+msgstr "Er is een onverwachte fout opgetreden. Probeer het opnieuw."
+
+msgid "You do not have permission to manage plugin settings."
+msgstr "U heeft geen toestemming om de plugin-instellingen te beheren."
+
+msgid "Unauthorized"
+msgstr "Niet geautoriseerd"
+
+msgid "Settings"
+msgstr "Instellingen"
+
+msgid "Show Control Panel Bar"
+msgstr "Configuratiescherm balk weergeven"
+
+msgid "Display the Control Panel bar at the top of the page"
+msgstr "Toon de configuratiescherm balk bovenaan de pagina"
+
+msgid "Show Link In Admin Menu"
+msgstr "Link weergeven in het beheerdersmenu"
+
+msgid "Display a link to the Control Panel in the WordPress admin menu"
+msgstr "Toon een link naar het configuratiescherm in het WordPress-beheerdersmenu"
+
+msgid "Show Link In Admin Bar"
+msgstr "Link weergeven in de beheerderbalk"
+
+msgid "Display a link to the Control Panel in the WordPress admin bar"
+msgstr "Toon een link naar het configuratiescherm in de WordPress-beheerderbalk"
+
+msgid "Back to Control Panel"
+msgstr "Terug naar configuratiescherm"
+
+msgid "Upgrade Now"
+msgstr "Nu upgraden"
+
+msgid "Hide this bar"
+msgstr "Verberg deze balk"
+
+#, php-format
+msgid "Version %s"
+msgstr "Versie %s"
+
+msgid "By"
+msgstr "Door"
